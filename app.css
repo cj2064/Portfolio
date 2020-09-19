@@ -1,0 +1,49 @@
+body {
+    background-image: url(assets/zayohuiux.png);
+    background-color: #000000;
+    /* background-size: 80% 80%; */
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-position: 0px 60px;
+    font-family: 'Noto Serif JP', serif;
+}
+
+body, html {
+    width: 100vw;
+    height: 100vh;
+    color: #D3D0D0;
+}
+
+/* width: 100vw;
+height: 100vh; 
+background-size: 100% 100%;
+background-repeat: no-repeat;
+position: relative;
+} */
+
+.pink {
+    background-color: darkgray;
+}
+
+.content {
+    padding-top: 7%;
+    padding-bottom: 7%;
+    text-align: right;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+img {
+    width: 480px;  
+    height: 640px;
+}
+
+.socials {
+    margin-top: 180px;
+    text-align: center;
+}
+
+
+
